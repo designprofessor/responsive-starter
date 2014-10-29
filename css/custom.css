@@ -1,0 +1,22 @@
+/* STARTER PROJECT - MOBILE FIRST! Start with all styles for mobile, and your window in a small screen view when previewing your HTML */
+
+/* Mobile Styles */
+
+
+
+/* Tablet Styles */
+@media screen and (min-width:768px) {
+
+}
+
+
+/* Desktop Styles */
+@media screen and (min-width:992px) {
+	
+}
+
+
+/* Larger Desktop Styles - OPTIONAL */
+@media screen and (min-width:1200px) {
+	
+}
